@@ -1,0 +1,9 @@
+{
+  "navbar": ["频道", "记录", "登录"],
+  "home": {
+    "article": [{
+      "title": "Javascript",
+      "para": "I love javascript"
+    }]
+  }
+}

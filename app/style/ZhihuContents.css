@@ -1,0 +1,29 @@
+.article {
+  padding: 20px 20px;
+  background-color: #f6f6f6;
+  box-shadow: 0px 2px 2px 2px #aaa;
+}
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.para {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  text-indent: 2em;
+  font-weight: 300;
+  line-height: 1.8em;
+}
+@media (max-width: 500px){
+  .para {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+.tips {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 12px;
+  font-weight: 200;
+}
